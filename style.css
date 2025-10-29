@@ -5,7 +5,7 @@
   --dark: #333;
   --blue: #00bcd4;
   --blue-dark: #0097a7;
-  --font: "Nunito", sans-serif;
+  --font: "Nunito";
 }
 
 html, body {
@@ -197,3 +197,4 @@ header {
   padding: 8px 0;
   border-bottom: 1px solid #eee;
 }
+
